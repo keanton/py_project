@@ -1,4 +1,5 @@
 def sum_numbers(num1, num2):
-    sum = int(num1 + num2)
-    return sum
+    return num1 + num2
 
+def subtrack(num1, num2):
+    return num1 - num2
